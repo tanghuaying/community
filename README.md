@@ -13,4 +13,4 @@
 [Git](https://git-scm.com/downloads)
 [Visual Paradigm](https://www.visual-paradigm.com/cn/)
 
-access_token=69c5eeaa6209f0b86c5996f821de7956def2c54e
+access_token=69c5eeaa6209f0b86c5996f821de7956def2c54e# community
